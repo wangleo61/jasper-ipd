@@ -38,3 +38,5 @@ if __name__ == "__main__":
     print("Test 1:", sol.primeSubOperation(nums1.copy()))  # Should print True or False
     print("Test 2:", sol.primeSubOperation(nums2.copy()))  # Should print False
     print("Sorted:", sol.sort_nums([3, 1, 2]))
+    print("Sorted:", sol.sort_nums([3, 1, 2]))
+    print("Sorted:", sol.sort_nums([3, 1, 2]))
